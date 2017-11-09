@@ -23,9 +23,11 @@ Scales
 Coordinates
 
 # Ggplot2 Extension
+
 http://www.ggplot2-exts.org/
 
-#Titanic Dataset
+# Titanic Dataset
 I am using here titanic dataset which I took from Keggle website. 
+
 https://www.kaggle.com/c/titanic
 
